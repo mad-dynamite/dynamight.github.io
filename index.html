@@ -88,7 +88,7 @@
     <h2>Projects</h2>
 
     <div class="project">
-        <h3>Sales Data Analysis  1</h3>
+        <h3>Sales Data Analysis</h3>
         <p><strong>Description:</strong> Sales data analysis involves examining sales data to gain insights into business performance, customer behavior, and market trends. This process is crucial for making informed business decisions, identifying opportunities for growth, and improving overall sales strategies. 
 Here's a brief description of the key components and steps involved in sales data analysis:.</p>
         <p><strong>Technologies Used:</strong> Python, Pandas, Matplotlib, etc.</p>
