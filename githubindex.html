@@ -97,7 +97,7 @@ Here's a brief description of the key components and steps involved in sales dat
 	<li>Data Visualization: Tools like Matplotlib for creating interactive and insightful visualizations.</li>
 	<li>Machine Learning: Algorithms for predictive analytics, including linear regression, and time series forecasting.</li>
 	<li>Programming Language: Python for data analysis, modeling, and visualization.</li>
-        <p><a href="https://github.com/mad-dynamite/dynamight.github.io ">View on GitHub</a></p>
+        <p><a href="https://github.com/mad-dynamite/dynamight.github.io/blob/main/sales%20data%20.ipynb">View on GitHub</a></p>
 
     </div>
 
